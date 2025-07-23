@@ -1,0 +1,8 @@
+streamlit
+requests
+python-dotenv
+datetime
+boto3
+json5
+flask
+flask-cors
